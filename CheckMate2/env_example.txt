@@ -1,8 +1,0 @@
-# OpenAI API 키 설정
-# https://platform.openai.com/api-keys 에서 발급받으세요
-OPENAI_API_KEY=your_openai_api_key_here
-
-# 이메일 전송 설정 (선택사항)
-# Gmail을 사용하는 경우 2단계 인증과 앱 비밀번호가 필요합니다
-EMAIL_ADDRESS=your_email@gmail.com
-EMAIL_PASSWORD=your_app_password_here
